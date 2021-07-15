@@ -1,1 +1,1 @@
-# assignment1.github.io
+# http://assignment1.github.io
